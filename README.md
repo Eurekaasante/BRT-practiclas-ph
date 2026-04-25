@@ -1,7 +1,3 @@
-# BRT-practiclas-phThis is a professional narrative you can copy and paste directly into your GitHub `README.md` file. It frames your journey from the technical glitches to the final, high-level solutions.
-
----
-
 # SQL Practical Portfolio: Fundamentals to Advanced Analytics
 
 ## Project Overview & Intent
